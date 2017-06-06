@@ -3,13 +3,13 @@
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
   xmlns:gap="http://phonegap.com.ns/"
-  id ="com.phonegap.example2"
+  id ="com.phonegap.example10"
   version ="1.0.0">
   
  <name> app10 Carreras Universitarias </name>
   
   <description>
-  Esta aplicación mostrará la información de 3 carreras profesionales que quieras estudiar a nivel licenciatura y/o ingenieria
+  Esta aplicación mostrará la información de 3 carreras profesionales que quieras estudiar a nivel licenciatura o ingenieria
   </description>
   
   <author href="https://build.phonegap" email="irn0804671@gmail.com">
@@ -30,9 +30,6 @@
  <plugin name="cordova-plugin-device" spec="~1.1.4"/>
  <plugin name="cordova-plugin-vibration" spec="~2.1.3"/>
  <plugin name="cordova-plugin-dialogs" spec="~1.3.1"/>
- 
- <!--<plugin name="cordova-plugin-geolocation" source="npm"/> -->
-  <!--Third party plugins-->
   
   <!--Para accesar a paginas en internet-->
   <allow-intent href="https://*/*"/>
