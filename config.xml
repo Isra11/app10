@@ -1,17 +1,17 @@
 
-<?xml version="1.0" encoding="utf-8"?>
+ <?xml version="1.0" encoding="utf-8"?>
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
   xmlns:gap="http://phonegap.com.ns/"
   id ="com.phonegap.example2"
   version ="1.0.0">
   
-  <name> app10 Carreras Universitarias </name>
+ <name> app10 Carreras Universitarias </name>
   
   <description>
-  Esta aplicación mostrará la información de 3 carreras profesionales que quieras estudiar a nivel licenciatura y/o ingenieria.
+  Esta aplicación mostrará la información de 3 carreras profesionales que quieras estudiar a nivel licenciatura y/o ingenieria
   </description>
- 
+  
   <author href="https://build.phonegap" email="irn0804671@gmail.com">
     israel arturo romero estrada 4G
   </author>
@@ -46,3 +46,11 @@
  <icon src="res/android/mdpi.png"/>
  
  </widget>
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
